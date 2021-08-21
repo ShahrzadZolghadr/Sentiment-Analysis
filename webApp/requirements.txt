@@ -1,0 +1,6 @@
+flask
+hazm
+clean-text[gpl]
+pandas
+tensorflow
+keras
