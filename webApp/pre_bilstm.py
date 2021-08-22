@@ -4,8 +4,6 @@ import hazm
 import re
 from cleantext import clean
 import numpy as np
-from sklearn.metrics import classification_report
-from sklearn.metrics import f1_score
 from tensorflow import keras
 from tensorflow.keras import layers
 from keras.preprocessing.text import Tokenizer
